@@ -28,7 +28,6 @@ FEEDS = [
     ("ScienceDaily — Mind & Brain", "https://www.sciencedaily.com/rss/mind_brain.xml"),
     ("ScienceDaily — Health & Medicine", "https://www.sciencedaily.com/rss/health_medicine.xml"),
     ("The Conversation — Health", "https://theconversation.com/us/health/articles.atom"),
-    ("Harvard Health Blog", "https://www.health.harvard.edu/blog/feed"),
 ]
 
 def get(url, timeout=25):
