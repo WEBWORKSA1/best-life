@@ -1,0 +1,40 @@
+name: Auto-refresh feeds
+
+on:
+  schedule:
+    - cron: "17 5 * * *"   # daily, 05:17 UTC
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["scripts/**", ".github/workflows/refresh.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Refresh video and research feeds
+        run: python3 scripts/refresh.py
+      - name: Commit if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/videos.json data/news.json
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore: auto-refresh feeds"
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
