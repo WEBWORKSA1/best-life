@@ -1,69 +1,68 @@
 {
- "updated": "",
  "featured": [
   {
    "id": "arj7oStGLkU",
-   "title": "Inside the mind of a master procrastinator",
-   "channel": "Tim Urban · TED",
+   "title": "Inside the Mind of a Master Procrastinator | Tim Urban | TED",
+   "channel": "TED",
    "topic": "Work"
   },
   {
    "id": "8KkKuTCFvzI",
-   "title": "What makes a good life? Lessons from the longest study on happiness",
-   "channel": "Robert Waldinger · TED",
+   "title": "What Makes a Good Life? Lessons from the Longest Study on Happiness | Robert Waldinger | TED",
+   "channel": "TED",
    "topic": "Love"
   },
   {
    "id": "5MuIMqhT8DM",
-   "title": "Sleep is your superpower",
-   "channel": "Matt Walker · TED",
+   "title": "Sleep Is Your Superpower | Matt Walker | TED",
+   "channel": "TED",
    "topic": "Health"
   },
   {
    "id": "RcGyVTAoXEU",
-   "title": "How to make stress your friend",
-   "channel": "Kelly McGonigal · TED",
+   "title": "How to Make Stress Your Friend | Kelly McGonigal | TED",
+   "channel": "TED",
    "topic": "Mind"
   },
   {
    "id": "fLJsdqxnZb0",
-   "title": "The happy secret to better work",
-   "channel": "Shawn Achor · TED",
+   "title": "The happy secret to better work | Shawn Achor",
+   "channel": "TED",
    "topic": "Work"
   },
   {
    "id": "u4ZoJKF_VuA",
-   "title": "How great leaders inspire action",
-   "channel": "Simon Sinek · TED",
+   "title": "Start with why -- how great leaders inspire action | Simon Sinek | TEDxPugetSound",
+   "channel": "TEDx Talks",
    "topic": "Purpose"
   },
   {
    "id": "iCvmsMzlF7o",
-   "title": "The power of vulnerability",
-   "channel": "Brené Brown · TED",
+   "title": "The Power of Vulnerability | Brené Brown | TED",
+   "channel": "TED",
    "topic": "Love"
   },
   {
    "id": "H14bBuluwB8",
-   "title": "Grit: the power of passion and perseverance",
-   "channel": "Angela Lee Duckworth · TED",
+   "title": "Grit: The Power of Passion and Perseverance | Angela Lee Duckworth | TED",
+   "channel": "TED",
    "topic": "Work"
   },
   {
    "id": "UNP03fDSj1U",
-   "title": "Try something new for 30 days",
-   "channel": "Matt Cutts · TED",
+   "title": "Try something new for 30 days - Matt Cutts",
+   "channel": "TED-Ed",
    "topic": "Purpose"
   },
   {
    "id": "4q1dgn_C0AU",
-   "title": "The surprising science of happiness",
-   "channel": "Dan Gilbert · TED",
+   "title": "The surprising science of happiness | Dan Gilbert",
+   "channel": "TED",
    "topic": "Mind"
   },
   {
    "id": "WPPPFqsECz0",
-   "title": "An antidote to dissatisfaction",
+   "title": "An Antidote to Dissatisfaction",
    "channel": "Kurzgesagt – In a Nutshell",
    "topic": "Mind"
   },
@@ -74,5 +73,133 @@
    "topic": "Love"
   }
  ],
- "latest": []
+ "latest": [
+  {
+   "id": "Q6MRUhfussk",
+   "title": "\"Deep listening” can help you form relationships across generations, cultures and divides #TEDTalks",
+   "channel": "TED",
+   "topic": "Purpose",
+   "published": "2026-11-19T00:00:32+00:00"
+  },
+  {
+   "id": "AXnNoxJ30QU",
+   "title": "Mitochondria: How communication shapes our future | Corina Madreiter-Sokolowski | TEDxMedUniGraz",
+   "channel": "TEDx Talks",
+   "topic": "Purpose",
+   "published": "2026-11-18T17:42:45+00:00"
+  },
+  {
+   "id": "06hUrtT0_6Q",
+   "title": "From Helped to Helpers: Rewriting Ability | Moses Chowdari Gorrepati | TEDxKLH University Bowrampet",
+   "channel": "TEDx Talks",
+   "topic": "Purpose",
+   "published": "2026-11-18T17:20:35+00:00"
+  },
+  {
+   "id": "s8wSNKbcMKE",
+   "title": "Is demonic possession common? | Jack Symes",
+   "channel": "Big Think",
+   "topic": "Mind",
+   "published": "2026-11-18T17:10:51+00:00"
+  },
+  {
+   "id": "A7SLvR_lQZ4",
+   "title": "Being Betrayed In Love YT",
+   "channel": "The School of Life",
+   "topic": "Love",
+   "published": "2026-11-18T14:00:19+00:00"
+  },
+  {
+   "id": "02e84crb5gU",
+   "title": "You Are Living in the Greatest Museum in the World",
+   "channel": "The School of Life",
+   "topic": "Love",
+   "published": "2026-11-18T14:00:04+00:00"
+  },
+  {
+   "id": "80Cp7g4l1FI",
+   "title": "The harder you try to control everything, the more likely you are to get in your own way #TEDTalks",
+   "channel": "TED",
+   "topic": "Purpose",
+   "published": "2026-11-17T23:30:14+00:00"
+  },
+  {
+   "id": "L9GHmwO4-uw",
+   "title": "If You Have a Job, Start Selling Your Skills ASAP",
+   "channel": "Ali Abdaal",
+   "topic": "Work",
+   "published": "2026-11-17T16:05:45+00:00"
+  },
+  {
+   "id": "dkocGur84i8",
+   "title": "The three words that power every device you own - Lane Gunderman",
+   "channel": "TED-Ed",
+   "topic": "Mind",
+   "published": "2026-11-17T16:00:59+00:00"
+  },
+  {
+   "id": "zHVlBtlQ56Q",
+   "title": "How narcissistic are you? | Ramani Durvasula",
+   "channel": "Big Think",
+   "topic": "Mind",
+   "published": "2026-11-16T17:09:24+00:00"
+  },
+  {
+   "id": "ex3Vtitol6E",
+   "title": "One of the best ways to make your audience happy is by providing free resources... #ad",
+   "channel": "Ali Abdaal",
+   "topic": "Work",
+   "published": "2026-11-16T13:00:37+00:00"
+  },
+  {
+   "id": "NKeZ_HRk_O8",
+   "title": "Cool Down Your Room... With a FRIDGE?",
+   "channel": "Kurzgesagt – In a Nutshell",
+   "topic": "Mind",
+   "published": "2026-11-14T15:00:11+00:00"
+  },
+  {
+   "id": "aDblEBU41nA",
+   "title": "Why is pepper such a popular spice? - Carolyn Beans",
+   "channel": "TED-Ed",
+   "topic": "Mind",
+   "published": "2026-11-12T16:01:11+00:00"
+  },
+  {
+   "id": "Y1vEGsnNYek",
+   "title": "What Is Food Fortification?",
+   "channel": "Kurzgesagt – In a Nutshell",
+   "topic": "Mind",
+   "published": "2026-11-12T16:00:37+00:00"
+  },
+  {
+   "id": "2dn-mcgyC8s",
+   "title": "7 Minute Morning Meditation | Stillness to Start Your Day.",
+   "channel": "Yoga With Adriene",
+   "topic": "Health",
+   "published": "2026-11-10T15:00:05+00:00"
+  },
+  {
+   "id": "XrZ4Vozni3o",
+   "title": "They sold us a lie (and it’s still working)",
+   "channel": "Matt D'Avella",
+   "topic": "Work",
+   "published": "2026-10-31T21:35:30+00:00"
+  },
+  {
+   "id": "E9AwOaDbclg",
+   "title": "Halloween Yoga | A Red Riding Hood Adventure",
+   "channel": "Yoga With Adriene",
+   "topic": "Health",
+   "published": "2026-10-27T14:00:07+00:00"
+  },
+  {
+   "id": "0y9CyrU2o3M",
+   "title": "A professional stylist rebuilt my minimalist wardrobe",
+   "channel": "Matt D'Avella",
+   "topic": "Work",
+   "published": "2026-09-27T23:28:40+00:00"
+  }
+ ],
+ "updated": "2026-11-19T09:07:55.713638+00:00"
 }
