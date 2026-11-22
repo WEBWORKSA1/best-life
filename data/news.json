@@ -1,10 +1,34 @@
 {
  "items": [
   {
+   "title": "It's Medicare open enrollment time. Here's what you need to know",
+   "link": "https://www.npr.org/2026/11/22/nx-s1-6036735/medicare-open-enrollment-2027",
+   "source": "NPR — Health",
+   "date": "2026-11-22T13:11:04+00:00"
+  },
+  {
+   "title": "Bayer reaches Roundup settlement that could cost the company billions",
+   "link": "https://www.npr.org/2026/11/21/nx-s1-6049684/roundup-bayer-hodgkins-settlement",
+   "source": "NPR — Health",
+   "date": "2026-11-21T20:37:35+00:00"
+  },
+  {
+   "title": "AI may not work like the human brain after all, scientists discover",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
+   "source": "ScienceDaily — Mind & Brain",
+   "date": "2026-11-21T15:24:58+00:00"
+  },
+  {
    "title": "Philadelphia neonatologist Joanna Parga-Belinkie on keeping babies safe from measles",
    "link": "https://www.npr.org/2026/11/21/nx-s1-6038857/philadelphia-neonatologist-joanna-parga-belinkie-on-keeping-babies-safe-from-measles",
    "source": "NPR — Health",
    "date": "2026-11-21T12:40:10+00:00"
+  },
+  {
+   "title": "Microplastics may be more dangerous than we thought. Scientists just discovered why",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261120075549.htm",
+   "source": "ScienceDaily — Health & Medicine",
+   "date": "2026-11-21T02:35:26+00:00"
   },
   {
    "title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
@@ -53,12 +77,6 @@
    "link": "https://www.sciencedaily.com/releases/2026/11/261118065534.htm",
    "source": "ScienceDaily — Health & Medicine",
    "date": "2026-11-20T04:31:15+00:00"
-  },
-  {
-   "title": "A study of 30,000 people reveals which antidepressants may work best",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261118065515.htm",
-   "source": "ScienceDaily — Health & Medicine",
-   "date": "2026-11-20T01:50:20+00:00"
   },
   {
    "title": "Experimental compound burns fat without sacrificing muscle",
@@ -145,22 +163,10 @@
    "date": "2026-11-18T21:28:29+00:00"
   },
   {
-   "title": "As overdose deaths fall, White House makes misleading claims about who deserves credit",
-   "link": "https://www.npr.org/2026/11/18/nx-s1-6044209/drug-deaths-overdose-drop-trump-biden-fentanyl",
-   "source": "NPR — Health",
-   "date": "2026-11-18T18:18:16+00:00"
-  },
-  {
    "title": "Regulator mistakenly sent complaints about doctors to newspaper",
    "link": "https://www.bbc.co.uk/news/articles/c8wy5erexq0ko?at_medium=RSS&at_campaign=rss",
    "source": "BBC News — Health",
    "date": "2026-11-18T17:48:10+00:00"
-  },
-  {
-   "title": "The off-and-on switch for U.S. aid leads to a cliffhanger for Zambia and Zimbabwe",
-   "link": "https://www.npr.org/2026/11/18/g-s1-153872/u-s-foreign-aid-memorandum-understanding-zambia-zimbabwe",
-   "source": "NPR — Health",
-   "date": "2026-11-18T13:03:38+00:00"
   },
   {
    "title": "Why do farts smell so bad? The secret is brewing in your gut",
@@ -199,17 +205,11 @@
    "date": "2026-11-17T12:00:12+00:00"
   },
   {
-   "title": "The hidden language of psychopathy is not what scientists expected",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261116023346.htm",
-   "source": "ScienceDaily — Mind & Brain",
-   "date": "2026-11-17T11:51:35+00:00"
-  },
-  {
    "title": "Ozempic and Mounjaro may have a surprising effect on your brain",
    "link": "https://www.sciencedaily.com/releases/2026/11/261116023401.htm",
    "source": "ScienceDaily — Mind & Brain",
    "date": "2026-11-17T11:39:45+00:00"
   }
  ],
- "updated": "2026-11-21T13:31:51.164793+00:00"
+ "updated": "2026-11-22T13:25:24.748103+00:00"
 }

@@ -75,6 +75,27 @@
  ],
  "latest": [
   {
+   "id": "QM5vh0ZKvZo",
+   "title": "Could this potentially unlock safer, more effective treatments? #TEDTalks",
+   "channel": "TED",
+   "topic": "Purpose",
+   "published": "2026-11-21T23:00:05+00:00"
+  },
+  {
+   "id": "78C3_lu0blQ",
+   "title": "Why Great Art Requires Risk | Alex Van Halen, David Lee Roth and Robert Vargas | TED",
+   "channel": "TED",
+   "topic": "Purpose",
+   "published": "2026-11-21T16:00:05+00:00"
+  },
+  {
+   "id": "NaSyKS8JscE",
+   "title": "How the manosphere radicalizes young men | Susanne Kaiser | TEDxPorto",
+   "channel": "TEDx Talks",
+   "topic": "Purpose",
+   "published": "2026-11-21T14:30:38+00:00"
+  },
+  {
    "id": "156fA98nKFc",
    "title": "Why you love video games like GTA so much | Ryan Terao | TEDxBradley University",
    "channel": "TEDx Talks",
@@ -82,25 +103,11 @@
    "published": "2026-11-20T18:00:06+00:00"
   },
   {
-   "id": "0A_6cIROQ_8",
-   "title": "meet your art | Tsuki Kobayashi | TEDxUTokyoSalon",
-   "channel": "TEDx Talks",
-   "topic": "Purpose",
-   "published": "2026-11-20T17:52:41+00:00"
-  },
-  {
    "id": "bEVtKdCXHp4",
    "title": "Could we bring dinosaurs back to life? | Steve Brusatte",
    "channel": "Big Think",
    "topic": "Mind",
    "published": "2026-11-20T17:10:55+00:00"
-  },
-  {
-   "id": "VgOm8nqPlD4",
-   "title": "Want Someone to Change? Ask This Question | Philip Jameson | TED",
-   "channel": "TED",
-   "topic": "Purpose",
-   "published": "2026-11-20T16:00:02+00:00"
   },
   {
    "id": "Y0-xv7bNVvU",
@@ -115,13 +122,6 @@
    "channel": "Big Think",
    "topic": "Mind",
    "published": "2026-11-20T14:00:00+00:00"
-  },
-  {
-   "id": "ACCnhY1fKoI",
-   "title": "How We’ll Actually Ditch Fossil Fuels — by the Numbers | Michael Liebreich | TED",
-   "channel": "TED",
-   "topic": "Purpose",
-   "published": "2026-11-19T16:00:15+00:00"
   },
   {
    "id": "fqL9dt6QHWg",
@@ -201,5 +201,5 @@
    "published": "2026-09-27T23:28:40+00:00"
   }
  ],
- "updated": "2026-11-21T13:31:50.482684+00:00"
+ "updated": "2026-11-22T13:25:23.959885+00:00"
 }
