@@ -1,6 +1,66 @@
 {
  "items": [
   {
+   "title": "Doctors in Congress used to lean Republican – the 120th Congress marks a historic shift",
+   "link": "https://theconversation.com/doctors-in-congress-used-to-lean-republican-the-120th-congress-marks-a-historic-shift-296633",
+   "source": "The Conversation — Health",
+   "date": "2026-11-24T13:13:40+00:00"
+  },
+  {
+   "title": "Cosmetic surgery is on the rise globally, with social media and celebrities reducing taboos and influencing beauty ideals",
+   "link": "https://theconversation.com/cosmetic-surgery-is-on-the-rise-globally-with-social-media-and-celebrities-reducing-taboos-and-influencing-beauty-ideals-295431",
+   "source": "The Conversation — Health",
+   "date": "2026-11-24T13:13:23+00:00"
+  },
+  {
+   "title": "The DRC’s Ebola crisis revives an old ethical question: What do health workers owe patients?",
+   "link": "https://theconversation.com/the-drcs-ebola-crisis-revives-an-old-ethical-question-what-do-health-workers-owe-patients-296998",
+   "source": "The Conversation — Health",
+   "date": "2026-11-24T13:13:05+00:00"
+  },
+  {
+   "title": "Cannabis users develop psychosis years earlier, and the gap grows with age",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261123005346.htm",
+   "source": "ScienceDaily — Mind & Brain",
+   "date": "2026-11-24T10:57:44+00:00"
+  },
+  {
+   "title": "Scientists discover a new type of depression that common antidepressants struggle to treat",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261123005352.htm",
+   "source": "ScienceDaily — Mind & Brain",
+   "date": "2026-11-24T10:47:51+00:00"
+  },
+  {
+   "title": "Doctors struggle to save babies after parents refuse vitamin K",
+   "link": "https://www.npr.org/2026/11/24/nx-s1-6001723/vitamin-k-deficiency-refusal-vaccine-misinformation-newborn-bleeding",
+   "source": "NPR — Health",
+   "date": "2026-11-24T10:00:00+00:00"
+  },
+  {
+   "title": "Bleeding, birth defects: Congo residents sue over alleged mining pollution",
+   "link": "https://www.npr.org/2026/11/24/nx-s1-6042912/drc-congo-mining-china-copper-colbalt-critical-minerals",
+   "source": "NPR — Health",
+   "date": "2026-11-24T10:00:00+00:00"
+  },
+  {
+   "title": "Depression may be an early warning sign of Alzheimer's disease",
+   "link": "https://www.sciencedaily.com/releases/2026/11/261121221134.htm",
+   "source": "ScienceDaily — Mind & Brain",
+   "date": "2026-11-24T00:31:03+00:00"
+  },
+  {
+   "title": "Why I don't always tell potential employers I'm dyslexic",
+   "link": "https://www.bbc.co.uk/news/articles/c6rmgjynynero?at_medium=RSS&at_campaign=rss",
+   "source": "BBC News — Health",
+   "date": "2026-11-24T00:00:47+00:00"
+  },
+  {
+   "title": "'Medicare for all' is back on the drawing board. Does it stand a better chance this time?",
+   "link": "https://www.npr.org/2026/11/23/nx-s1-6047706/health-medicare-for-all-chances",
+   "source": "NPR — Health",
+   "date": "2026-11-23T16:00:49+00:00"
+  },
+  {
    "title": "New gum disease treatment kills bad bacteria while sparing the good",
    "link": "https://www.sciencedaily.com/releases/2026/11/261123005356.htm",
    "source": "ScienceDaily — Health & Medicine",
@@ -81,7 +141,7 @@
   {
    "title": "Alzheimer’s breakthrough exposes a hidden flaw in the brain’s cleanup system",
    "link": "https://www.sciencedaily.com/releases/2026/11/261120075600.htm",
-   "source": "ScienceDaily — Mind & Brain",
+   "source": "ScienceDaily — Health & Medicine",
    "date": "2026-11-22T03:00:27+00:00"
   },
   {
@@ -95,18 +155,6 @@
    "link": "https://www.sciencedaily.com/releases/2026/11/261120075701.htm",
    "source": "ScienceDaily — Mind & Brain",
    "date": "2026-11-21T15:24:58+00:00"
-  },
-  {
-   "title": "Philadelphia neonatologist Joanna Parga-Belinkie on keeping babies safe from measles",
-   "link": "https://www.npr.org/2026/11/21/nx-s1-6038857/philadelphia-neonatologist-joanna-parga-belinkie-on-keeping-babies-safe-from-measles",
-   "source": "NPR — Health",
-   "date": "2026-11-21T12:40:10+00:00"
-  },
-  {
-   "title": "Microplastics may be more dangerous than we thought. Scientists just discovered why",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261120075549.htm",
-   "source": "ScienceDaily — Health & Medicine",
-   "date": "2026-11-21T02:35:26+00:00"
   },
   {
    "title": "Sales of baby sleeping bag halted by Next after new mum raises alarm",
@@ -133,52 +181,16 @@
    "date": "2026-11-20T13:43:39+00:00"
   },
   {
-   "title": "This simple habit is linked to a 33% lower risk of Alzheimer's",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261118065536.htm",
-   "source": "ScienceDaily — Mind & Brain",
-   "date": "2026-11-20T12:06:07+00:00"
-  },
-  {
-   "title": "For better mental health, how often you exercise may matter more than how hard",
-   "link": "https://www.sciencedaily.com/releases/2026/11/261119194601.htm",
-   "source": "ScienceDaily — Mind & Brain",
-   "date": "2026-11-20T09:09:17+00:00"
-  },
-  {
    "title": "Massive hope for pancreatic cancer pill after trial saw tumours vanish",
    "link": "https://www.bbc.co.uk/news/articles/cqrmgjnzz9l0o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News — Health",
    "date": "2026-11-20T00:08:22+00:00"
   },
   {
-   "title": "For some patients, psychedelic treatment brings new troubles in its aftermath",
-   "link": "https://www.npr.org/2026/11/19/nx-s1-6043791/for-some-patients-psychedelic-treatment-brings-new-troubles-in-its-aftermath",
-   "source": "NPR — Health",
-   "date": "2026-11-19T23:07:17+00:00"
-  },
-  {
    "title": "A doctor’s guide to surviving — and enjoying — holiday feasting while on GLP-1 medication",
    "link": "https://theconversation.com/a-doctors-guide-to-surviving-and-enjoying-holiday-feasting-while-on-glp-1-medication-295301",
    "source": "The Conversation — Health",
    "date": "2026-11-19T19:09:59+00:00"
-  },
-  {
-   "title": "The 'Magic Six': How to strengthen your marriage in midlife",
-   "link": "https://www.npr.org/2026/11/19/nx-s1-5996688/magic-6-marriage-tips-nina-totenberg-relationships",
-   "source": "NPR — Health",
-   "date": "2026-11-19T18:28:23+00:00"
-  },
-  {
-   "title": "What is ‘intergenerational trauma’? A social worker explains how one generation’s experiences can affect descendants",
-   "link": "https://theconversation.com/what-is-intergenerational-trauma-a-social-worker-explains-how-one-generations-experiences-can-affect-descendants-295045",
-   "source": "The Conversation — Health",
-   "date": "2026-11-19T13:40:19+00:00"
-  },
-  {
-   "title": "Type 1 and Type 2 diabetes therapies show great promise – but treatment is only effective if people can access it",
-   "link": "https://theconversation.com/type-1-and-type-2-diabetes-therapies-show-great-promise-but-treatment-is-only-effective-if-people-can-access-it-296795",
-   "source": "The Conversation — Health",
-   "date": "2026-11-19T13:39:52+00:00"
   },
   {
    "title": "Covid inquiry report: key findings on testing, tracing and 'the pingdemic'",
@@ -197,19 +209,7 @@
    "link": "https://www.bbc.co.uk/news/articles/c6pw42ldpgn1o?at_medium=RSS&at_campaign=rss",
    "source": "BBC News — Health",
    "date": "2026-11-18T01:11:07+00:00"
-  },
-  {
-   "title": "Largest British study to check social media ban's effect on youth mental health",
-   "link": "https://www.bbc.co.uk/news/articles/cm0evw0d2wq4o?at_medium=RSS&at_campaign=rss",
-   "source": "BBC News — Health",
-   "date": "2026-11-18T00:49:31+00:00"
-  },
-  {
-   "title": "Young Americans have no memory of AIDS at its worst – they’re still at risk of infection, even when HIV doesn’t feel like a threat",
-   "link": "https://theconversation.com/young-americans-have-no-memory-of-aids-at-its-worst-theyre-still-at-risk-of-infection-even-when-hiv-doesnt-feel-like-a-threat-296118",
-   "source": "The Conversation — Health",
-   "date": "2026-11-17T13:40:42+00:00"
   }
  ],
- "updated": "2026-11-23T16:04:40.481039+00:00"
+ "updated": "2026-11-24T15:56:41.940270+00:00"
 }
