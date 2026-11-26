@@ -75,6 +75,41 @@
  ],
  "latest": [
   {
+   "id": "3X0UcSRQOY4",
+   "title": "Something in Your Kitchen Could Save Millions of Lives!",
+   "channel": "Kurzgesagt – In a Nutshell",
+   "topic": "Mind",
+   "published": "2026-11-26T15:00:16+00:00"
+  },
+  {
+   "id": "V4ak4nt9ms0",
+   "title": "How cooking together preserves more than family recipes | Staci Perry Mergenthal | TEDxSioux Falls",
+   "channel": "TEDx Talks",
+   "topic": "Purpose",
+   "published": "2026-11-25T18:00:22+00:00"
+  },
+  {
+   "id": "b81scd-jizM",
+   "title": "History has no memory of echoes | Christopher Yaw Annor Adu-Gyimah | TEDxAshesi University",
+   "channel": "TEDx Talks",
+   "topic": "Purpose",
+   "published": "2026-11-25T17:40:30+00:00"
+  },
+  {
+   "id": "vghv2DLGvVg",
+   "title": "The 9-5 Trap, Explained",
+   "channel": "Ali Abdaal",
+   "topic": "Work",
+   "published": "2026-11-25T17:19:32+00:00"
+  },
+  {
+   "id": "X1bm60e_QUk",
+   "title": "Why narcissistic abuse is hard to see | Ramani Durvasula",
+   "channel": "Big Think",
+   "topic": "Mind",
+   "published": "2026-11-25T17:12:16+00:00"
+  },
+  {
    "id": "G0FJbB-tCSU",
    "title": "How Emotional Maturity Changes Who You Can Actually Love",
    "channel": "The School of Life",
@@ -101,20 +136,6 @@
    "channel": "TED",
    "topic": "Purpose",
    "published": "2026-11-24T20:00:17+00:00"
-  },
-  {
-   "id": "swnjvuqa7ME",
-   "title": "Why is it so hard to let go of clutter? | Lianne Hofer | TEDxSugar Creek Women",
-   "channel": "TEDx Talks",
-   "topic": "Purpose",
-   "published": "2026-11-24T18:00:29+00:00"
-  },
-  {
-   "id": "d5CHEblSUeQ",
-   "title": "AI Is Changing the Rules. Who Gets to Benefit? | Tim Kapp | TEDxSaltLakeCity",
-   "channel": "TEDx Talks",
-   "topic": "Purpose",
-   "published": "2026-11-24T17:52:31+00:00"
   },
   {
    "id": "1IVlILdETAw",
@@ -145,13 +166,6 @@
    "published": "2026-11-23T20:00:27+00:00"
   },
   {
-   "id": "35fnOp8DXg0",
-   "title": "Why \"codependent\" may be the wrong label | Ramani Durvasula",
-   "channel": "Big Think",
-   "topic": "Mind",
-   "published": "2026-11-23T17:13:04+00:00"
-  },
-  {
    "id": "PiwBdhcpsxQ",
    "title": "If I Lost Everything, Here's EXACTLY How I'd Make $100K Fast",
    "channel": "Ali Abdaal",
@@ -159,25 +173,11 @@
    "published": "2026-11-23T13:14:27+00:00"
   },
   {
-   "id": "Y0-xv7bNVvU",
-   "title": "This One AI Prompt Will Organise Your Entire Life",
-   "channel": "Ali Abdaal",
-   "topic": "Work",
-   "published": "2026-11-20T14:09:27+00:00"
-  },
-  {
    "id": "fqL9dt6QHWg",
    "title": "5 of the most dangerous scientific discoveries - Shannon Odell",
    "channel": "TED-Ed",
    "topic": "Mind",
    "published": "2026-11-19T15:59:54+00:00"
-  },
-  {
-   "id": "39Hc0MZtE4w",
-   "title": "How Many People Can You Feed with a Dollar?",
-   "channel": "Kurzgesagt – In a Nutshell",
-   "topic": "Mind",
-   "published": "2026-11-19T15:00:34+00:00"
   },
   {
    "id": "2dn-mcgyC8s",
@@ -201,5 +201,5 @@
    "published": "2026-09-27T23:28:40+00:00"
   }
  ],
- "updated": "2026-11-25T15:42:48.497918+00:00"
+ "updated": "2026-11-26T15:24:12.110467+00:00"
 }
