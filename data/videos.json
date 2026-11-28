@@ -75,25 +75,39 @@
  ],
  "latest": [
   {
+   "id": "Brps9S4SfYA",
+   "title": "The next cure for a fatal disease could already be sitting on a shelf #TEDTalks",
+   "channel": "TED",
+   "topic": "Purpose",
+   "published": "2026-11-27T20:00:22+00:00"
+  },
+  {
+   "id": "7xws3gov6BQ",
+   "title": "The alien biology of coral reefs | Matt Gibson | TEDxKC",
+   "channel": "TEDx Talks",
+   "topic": "Purpose",
+   "published": "2026-11-27T18:00:01+00:00"
+  },
+  {
+   "id": "VnmtHdw82CE",
+   "title": "A better future is actually possible — and we’re imagining it with the kids who’ll inherit it",
+   "channel": "TED",
+   "topic": "Purpose",
+   "published": "2026-11-27T17:41:57+00:00"
+  },
+  {
+   "id": "NN__5ki409g",
+   "title": "What did pre-historic birds look like? | Steve Brusatte",
+   "channel": "Big Think",
+   "topic": "Mind",
+   "published": "2026-11-27T17:09:04+00:00"
+  },
+  {
    "id": "uoj1ezJRUvA",
-   "title": "Black holes take a sledgehammer to our understanding of physics | Brian Greene: Full Interview",
+   "title": "Physics is approaching the limits of the human mind | Brian Greene: Full Interview",
    "channel": "Big Think",
    "topic": "Mind",
    "published": "2026-11-27T14:00:18+00:00"
-  },
-  {
-   "id": "SRTivV6GlJw",
-   "title": "The most teachable moments might happen when parents aren’t there #TEDTalks",
-   "channel": "TED",
-   "topic": "Purpose",
-   "published": "2026-11-26T20:00:33+00:00"
-  },
-  {
-   "id": "1YlG1FeOqoQ",
-   "title": "How to Make Friends (and Keep Them) | Sheridan Voysey | TED",
-   "channel": "TED",
-   "topic": "Purpose",
-   "published": "2026-11-26T16:00:04+00:00"
   },
   {
    "id": "3X0UcSRQOY4",
@@ -110,25 +124,11 @@
    "published": "2026-11-25T18:00:22+00:00"
   },
   {
-   "id": "b81scd-jizM",
-   "title": "History has no memory of echoes | Christopher Yaw Annor Adu-Gyimah | TEDxAshesi University",
-   "channel": "TEDx Talks",
-   "topic": "Purpose",
-   "published": "2026-11-25T17:40:30+00:00"
-  },
-  {
    "id": "vghv2DLGvVg",
    "title": "The 9-5 Trap, Explained",
    "channel": "Ali Abdaal",
    "topic": "Work",
    "published": "2026-11-25T17:19:32+00:00"
-  },
-  {
-   "id": "X1bm60e_QUk",
-   "title": "Why narcissistic abuse is hard to see | Ramani Durvasula",
-   "channel": "Big Think",
-   "topic": "Mind",
-   "published": "2026-11-25T17:12:16+00:00"
   },
   {
    "id": "G0FJbB-tCSU",
@@ -201,5 +201,5 @@
    "published": "2026-09-27T23:28:40+00:00"
   }
  ],
- "updated": "2026-11-27T15:11:42.984406+00:00"
+ "updated": "2026-11-28T14:16:43.977232+00:00"
 }
